@@ -9,27 +9,17 @@ Smooth animations and graphics using OpenGL
 Score tracking
 Lives system
 Simple and intuitive controls
+
 Requirements
 C++ Compiler (GCC, Clang, etc.)
 OpenGL
 GLUT (OpenGL Utility Toolkit) or FreeGLUT
 CMake (for building the project)
-Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/pacman-game.git
-cd pacman-game
-Build the project using CMake:
 
-bash
-Copy code
-mkdir build
-cd build
-cmake ..
-make
-Run the game:
+
+
+
 
 bash
 Copy code
