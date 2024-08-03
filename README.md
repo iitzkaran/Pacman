@@ -21,9 +21,7 @@ CMake (for building the project)
 
 
 
-bash
-Copy code
-./pacman
+
 Controls
 Arrow Keys: Move Pacman (Up, Down, Left, Right)
 Gameplay
