@@ -24,7 +24,7 @@ This project is a classic Pacman game developed in C++ using OpenGL for renderin
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/pacman-game.git
+    git clone [https://github.com/yourusername/pacman-game.git](https://github.com/iitzkaran/Pacman)
     cd pacman-game
     ```
 
